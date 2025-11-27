@@ -48,6 +48,9 @@ scenarios/ contains scenarios, including specific network topology and flows to 
 ## Status
 The project has been tested on Ubuntu 22.04 (+WSL) and Windows 11. 
 
+## Usage
+Run the scenarios from the project root. For example ```python .\scenarios\CBSStudyLatency.py```.
+
 ## License
 LGPL v3.0 see LICENSE
 
