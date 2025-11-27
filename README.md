@@ -49,7 +49,7 @@ scenarios/ contains scenarios, including specific network topology and flows to 
 The project has been tested on Ubuntu 22.04 (+WSL) and Windows 11. 
 
 ## License
-LGPL 2.1 see LICENSE
+LGPL v3.0 see LICENSE
 
 ## IMPORTANT
 This framework is work in progress: new parts may be added, bugs are corrected, and so on. We cannot assert that the implementation will work fully according to the specifications. YOU ARE RESPONSIBLE YOURSELF TO MAKE SURE THAT THE MODELS YOU USE WORK CORRECTLY, AND YOU'RE GETTING VALID RESULTS.
